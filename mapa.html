@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mapa • Projeto Mapeia Crato</title>
+  <meta name="description" content="Projeto colaborativo para mapear ruas, endereços e equipamentos públicos do Crato-CE no OpenStreetMap." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://unpkg.com" />
+</head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <div class="logo">
+      <a href="index.html"><span class="dot" aria-hidden="true"></span>Projeto Mapeia Crato</a>
+    </div>
+    <nav class="nav-links">
+      <a href="index.html" class="">Início</a>
+        <a href="sobre.html" class="">Sobre</a>
+        <a href="atividades.html" class="">Atividades</a>
+        <a href="mapa.html" class="active">Mapa</a>
+        <a href="noticias.html" class="">Notícias</a>
+        <a href="suporte.html" class="">Suporte</a>
+        <a href="contato.html" class="cta ">Contato</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  
+<section class="hero">
+  <div class="container">
+    <h1>Mapa do Projeto</h1>
+    <p class="lead">Visualize a área de atuação e marque pontos relevantes. Os dados são do OpenStreetMap.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div id="map" class="map-wrap"></div>
+  </div>
+</section>
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""
+/>
+<script
+  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin=""
+></script>
+<script>
+  const map = L.map('map').setView([-7.229, -39.409], 13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '&copy; OpenStreetMap'}).addTo(map);
+  const marker = L.marker([-7.229, -39.409]).addTo(map).bindPopup('Crato - CE');
+</script>
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div>Feito com ❤️ pela comunidade <a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a> • UMBRAOSM</div>
+    <small>© Mapa — Mapa — 2025</small>
+  </div>
+</footer>
+</body>
+</html>
