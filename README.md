@@ -1,6 +1,9 @@
 # 🌍 Projeto Mapeia Crato
 
-O **Mapeia Crato** é uma iniciativa colaborativa para mapear ruas, edificações e pontos de interesse da cidade do **Crato - CE** no **OpenStreetMap (OSM)**.
+O Mapeia Crato é uma iniciativa que une inovação, cidadania e colaboração comunitária para transformar a forma como os cidadãos se relacionam com a cidade.
+O projeto tem como foco a atualização e a melhoria contínua dos dados geoespaciais do município de Crato, proporcionando benefícios diretos tanto para a população quanto para a gestão urbana.
+A iniciativa nasce de uma parceria entre a UMBraOSM – União dos Mapeadores Brasileiros do OpenStreetMap e a Universidade Regional do Cariri (URCA), por meio do Programa de Extensão “Capacitação em Geotecnologias da URCA”.
+Participam ativamente alunos, professores e voluntários, além dos integrantes do Laboratório de Geoprocessamento (LABGEO) e do Laboratório de Cartografia (LABOCART), que unem esforços em prol de um objetivo comum: construir um mapa mais completo, acessível e livre para todos.
 
 ## 📌 Objetivos
 - Mapear ruas e bairros que ainda não possuem nomes no OSM.
@@ -8,17 +11,36 @@ O **Mapeia Crato** é uma iniciativa colaborativa para mapear ruas, edificaçõe
 - Disponibilizar dados livres para toda a população.
 - Estimular a comunidade local a participar do mapeamento colaborativo.
 
-## 👥 Participantes
+## 👥 Coordenadoras 
+- Maria de Lourdes Carvalho Neta
+- Paula Alves Tomaz
+- 
+## 👥 Palestrantes
 - Raphael Assis
-- Equipe da UMBraOSM
-- Voluntários da comunidade local
-- Contribuidores do OpenStreetMap
+- Anderson Toniazo
+
+## 👥 Alunos
+- Cícero Douglas Melo Matias
+- Danilo Sobreira Candido
+- Davi Oliveira Silva
+- Evanderson Alencar de Sá
+- Francisca Patrícia Moreira Fernandes
+- Kawanne Ribeiro de Brito
+- Lara Demondes da Silva Almeida
+- Luciana Belso Pinheiro
+- Miguel Lima Soares Madeira
+- Pedro Henrique Pereira Lopes
+- Rômulo Pinheiro Mariano
+- Silvia Leticia Silvestre Martins
+- Thiago Alves de Carvalho
+- Victor Gonçalves de Almeida
+- José Arthur Serafim de Sales
 
 ## 🏛️ História da Cidade
 O Crato é conhecido como a Princesa do Cariri, localizado no sul do Ceará.
 
 ## 🌐 Site do Projeto
-👉 [Acesse o site do Mapeia Crato](https://SEU-USUARIO.github.io/mapeia-crato/)
+👉 [Acesse o site do Mapeia Crato]([https://umbraosm.com.br/projeto-mapeiacrato](https://umbraosm.com.br/projeto-mapeiacrato))
 
 ## 📖 Como Contribuir
 1. Cadastre-se no [OpenStreetMap](https://www.openstreetmap.org/).
@@ -26,9 +48,7 @@ O Crato é conhecido como a Princesa do Cariri, localizado no sul do Ceará.
 3. Participe adicionando ruas, edificações e pontos de interesse.
 
 ## 📚 Material de Apoio
-- [Guia para iniciantes no OSM](https://wiki.openstreetmap.org/wiki/Pt:Beginners%27_guide)
-- [LearnOSM](https://learnosm.org/pt/)
-- [Editor JOSM](https://josm.openstreetmap.de/)
+- [Material de Apoio para Iniciantes no Mapeamento de Edificações]([https://wiki.openstreetmap.org/wiki/Pt:Beginners%27_guide](https://projeto.softwarelivre.tec.br/s/NXjkqqxmCjsc9R6))
 
 ## 📞 Suporte e Contato
 - 🌍 Site oficial: [umbraosm.com.br](https://www.umbraosm.com.br)
