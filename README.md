@@ -55,3 +55,6 @@ O Crato é conhecido como a Princesa do Cariri, localizado no sul do Ceará.
 - 🌍 Site oficial: [umbraosm.com.br](https://www.umbraosm.com.br)
 - 📧 Email: contato@umbraosm.com.br
 - 📷 Instagram: [@umbraosmbrasil](https://www.instagram.com/umbraosmbrasil)
+
+- # 🌍 Site do Projeto Mapeia Crato-CE 2025.
+- https://umbraosm.com.br/projeto-mapeiacrato
