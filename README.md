@@ -14,7 +14,7 @@ Participam ativamente alunos, professores e voluntários, além dos integrantes 
 ## 👥 Coordenadoras 
 - Maria de Lourdes Carvalho Neta
 - Paula Alves Tomaz
-- 
+
 ## 👥 Palestrantes
 - Raphael Assis
 - Anderson Toniazo
