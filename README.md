@@ -40,7 +40,7 @@ Participam ativamente alunos, professores e voluntários, além dos integrantes 
 O Crato é conhecido como a Princesa do Cariri, localizado no sul do Ceará.
 
 ## 🌐 Site do Projeto
-👉 [Acesse o site do Mapeia Crato]([https://umbraosm.com.br/projeto-mapeiacrato](https://umbraosm.com.br/projeto-mapeiacrato))
+👉 [Acesse o site do Mapeia Crato](https://umbraosm.com.br/projeto-mapeiacrato)
 
 ## 📖 Como Contribuir
 1. Cadastre-se no [OpenStreetMap](https://www.openstreetmap.org/).
